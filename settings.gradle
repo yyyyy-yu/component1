@@ -1,0 +1,4 @@
+include ':login'
+include ':Baselibs'
+include ':app'
+rootProject.name = "component"
